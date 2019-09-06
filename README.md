@@ -1,5 +1,4 @@
 # social_network
-Social network using Vue.js
 
 # ТЗ самостоятельного проекта
 
